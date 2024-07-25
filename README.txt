@@ -1,35 +1,48 @@
-Landed by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Muskan Shah's Website
 
+Welcome to Muskan Shah's Digital Space - Bridging Innovation and Functionality in Software Engineering.
 
-A dark, slick, modern, responsive, adjective-drenched design built around an extremely
-dynamic landing page (scroll that mofo!). Inspired by Big Picture, another design
-of mine with a similarish feel/flow, only this time I took it waaaaaay further and
-actually made it multipurpose (versus copping out and making it a one pager like I
-did last time ;) Includes multiple pages, a bunch of pre-styled elements, and all
-its Sass sources.
+## Project Overview
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+This is a personal portfolio website for Muskan Shah, a budding software engineer with a passion for creating user-centric web applications. The website showcases Muskan's skills, experience, projects, and provides a way to get in touch.
 
-(* = Not included)
+## Features
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+- **Landing Page**: Introduction with a self-typing animation.
+- **About Me**: Background information and what sets Muskan apart.
+- **Experience**: Highlights from Muskan's internship at CNS TECHS.
+- **Project Showcase**: A portfolio of impactful projects.
+- **Skills**: A detailed list of technical and professional skills.
+- **Contact**: Links to email, LinkedIn, and GitHub.
 
-AJ
-aj@lkn.io | @ajlkn
+## Installation
 
+To run this project locally, follow these steps:
 
-Credits:
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/your-username/portfolio.git
+# Muskan Shah's Portfolio
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Welcome to Muskan Shah's Digital Space - Bridging Innovation and Functionality in Software Engineering.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## Project Overview
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+This is a personal portfolio website for Muskan Shah, a budding software engineer with a passion for creating user-centric web applications. The website showcases Muskan's skills, experience, projects, and provides a way to get in touch.
+
+## Features
+
+- **Landing Page**: Introduction with a self-typing animation.
+- **About Me**: Background information and what sets Muskan apart.
+- **Experience**: Highlights from Muskan's internship at CNS TECHS.
+- **Project Showcase**: A portfolio of impactful projects.
+- **Skills**: A detailed list of technical and professional skills.
+- **Contact**: Links to email, LinkedIn, and GitHub.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/your-username/portfolio.git
